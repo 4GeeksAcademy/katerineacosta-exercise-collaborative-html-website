@@ -1,3 +1,21 @@
-body{
-    background: #BDBDBD;
+.hero__img{
+    background-image: url('../img/bg.jpg'); 
+    height: 60vh;
+    background-size: cover;
+    background-position: bottom;
+}
+.hero__description h1 {
+    font-size: 6rem;
+}
+.hero__description h2 {
+    font-size: 3rem;
+}
+.hero__bg{
+    background-color: white;
+}
+.navbar__anchor a{
+    color: gray
+}
+.nav__padding{
+    padding: 0;
 }
